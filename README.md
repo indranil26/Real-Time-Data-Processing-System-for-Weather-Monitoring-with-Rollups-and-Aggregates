@@ -59,5 +59,5 @@ This project is a Node.js and MongoDB-based system for real-time weather monitor
 - This is a basic implementation and can be customized further.
 - Consider implementing error handling and logging for robustness.
 - For detailed instructions and explanations, refer to the individual files within the project.
-  
+
 Feel free to replace `<repo-url>` and `<mongo-db-uri>` with the actual values! Let me know if you need any more changes.
