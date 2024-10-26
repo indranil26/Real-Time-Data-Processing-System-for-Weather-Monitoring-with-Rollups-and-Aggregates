@@ -15,9 +15,10 @@ This project is a Node.js and MongoDB-based system for real-time weather monitor
 2. **Install dependencies**:
    ```bash
    cd <repo-url/backend>
-   `npm install`
+   npm install
    
 3. **Create a .env file in the project root and add your OpenWeatherMap API key**:
+   ```bash
    `OPENWEATHER_API_KEY=your_api_key`
 
 ## Backend Setup
