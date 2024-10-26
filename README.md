@@ -23,7 +23,7 @@ This project is a Node.js and MongoDB-based system for real-time weather monitor
 
 ## Backend Setup
 
-1. **Start the MongoDB server (if using a local instance).**
+1. **Start the MongoDB server (if using a local instance)**.
    
 2. **Run the beckend server**:
    ```bash
